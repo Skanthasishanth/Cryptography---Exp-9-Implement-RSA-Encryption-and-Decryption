@@ -30,7 +30,7 @@ Calculate the private key d as the modular inverse of e modulo φ(n): d . e ≡ 
 
 Convert each character in the message to its ASCII value. Encrypt each ASCII value using the formula: C=M^e mod n (where M is the ASCII value and C is the ciphertext)
 
-<br><br><br>
+<br>
 
 ### Step 7:
 
